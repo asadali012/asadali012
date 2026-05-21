@@ -58,13 +58,14 @@ I'm a **Full Stack Engineer with 5+ years of experience** building scalable web 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadali012&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadali012&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=asadali012&theme=github-dark&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=asadali012&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="165" alt="Asad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadali012&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=asadali012&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asadali012&theme=github_dark" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
