@@ -176,16 +176,7 @@ fun_fact: "I can work without coffee! 😝"
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=asadali012&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
 </p>
-
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asadali012&theme=darkhub&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
-</div>
  
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asadali012&theme=github_dark" width="100%" alt="Contribution Graph" />
-</div>
-
 ---
 
 ## 🏗️ What I Build
