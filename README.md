@@ -60,13 +60,7 @@ I'm a **Full Stack Engineer with 5+ years of experience** building scalable web 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=asadali012&theme=darkhub&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asadali012&theme=github_dark" height="165" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asadali012&theme=github_dark" height="165" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asadali012&theme=github_dark" height="165" alt="Top Languages by Commit" />
-</div>
-
+ 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asadali012&theme=github_dark" width="100%" alt="Contribution Graph" />
 </div>
